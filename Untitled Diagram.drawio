@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T09:02:08.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_8P5_PwxmNMHL8xEMJuU" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T09:45:06.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="PuUeP-lx4mLBEtCFhEBx" version="15.9.1" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="57fe6abec08f04cb-2" value="Jenkins &lt;br&gt;专案&amp;nbsp;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-3" value="May" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-3" value="设定参数" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-4" value="July" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
@@ -52,14 +52,32 @@
         <mxCell id="QD2z16ngsbT5WN4hHSJs-3" value="" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
           <mxGeometry x="-390" y="180" width="310" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="QD2z16ngsbT5WN4hHSJs-4" value="应用信息&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="210" width="160" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="QD2z16ngsbT5WN4hHSJs-5" value="&lt;br&gt;开发商信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="280" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="QD2z16ngsbT5WN4hHSJs-6" value="&lt;font&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;tahoma&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;source han sans cn&amp;quot; , &amp;quot;source han sans&amp;quot; , &amp;quot;source han serif&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif ; font-size: 18px&quot;&gt;【&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;tahoma&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;source han sans cn&amp;quot; , &amp;quot;source han sans&amp;quot; , &amp;quot;source han serif&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif ; font-size: 18px&quot;&gt;部署&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;tahoma&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;source han sans cn&amp;quot; , &amp;quot;source han sans&amp;quot; , &amp;quot;source han serif&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif ; font-size: 18px&quot;&gt;申请】&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
           <mxGeometry x="30" y="730" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-7" value="&lt;span&gt;哪朵云、哪个区&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;（支持批量操作只支持阿里云和微软云的正式区+测试区，华为云都需要手动）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="510" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-11" value="&lt;div&gt;部署区域：&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFD966;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="450" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-350" y="197.5" width="215" height="92.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-4" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应用信息&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFD966;fontSize=16;" vertex="1" parent="QD2z16ngsbT5WN4hHSJs-13">
+          <mxGeometry width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-10" value="&lt;ol style=&quot;font-size: 16px&quot;&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;appid&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;应用名称（简体）&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;应用类型&lt;/li&gt;&lt;li style=&quot;font-size: 16px&quot;&gt;&lt;font color=&quot;#ba7876&quot;&gt;应用部署类型（待定）&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="QD2z16ngsbT5WN4hHSJs-13">
+          <mxGeometry y="62.5" width="215" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-350" y="335" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-5" value="开发商信息:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFD966;fontSize=16;" vertex="1" parent="QD2z16ngsbT5WN4hHSJs-14">
+          <mxGeometry width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-9" value="&lt;ol style=&quot;font-size: 16px;&quot;&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;开发商名称&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;租户id&lt;/li&gt;&lt;li style=&quot;font-size: 16px;&quot;&gt;sid&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="QD2z16ngsbT5WN4hHSJs-14">
+          <mxGeometry y="50" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
