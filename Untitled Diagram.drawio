@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T08:10:39.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="iB9DVAEg7onaAP6x6zTf" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T09:02:08.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_8P5_PwxmNMHL8xEMJuU" version="15.9.1" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2522" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="57fe6abec08f04cb-1" value="Jan" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-1" value="&lt;font face=&quot;helvetica neue, helvetica, tahoma, arial, pingfang sc, source han sans cn, source han sans, source han serif, hiragino sans gb, wenquanyi micro hei, microsoft yahei, sans-serif&quot; style=&quot;font-size: 25px&quot;&gt;&amp;nbsp;Jenkinsfile&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=25;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="90" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-2" value="Mar" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-2" value="Jenkins &lt;br&gt;专案&amp;nbsp;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-3" value="May" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
@@ -42,6 +42,24 @@
         </mxCell>
         <mxCell id="57fe6abec08f04cb-13" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="855" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-1" value="&lt;font face=&quot;helvetica neue, helvetica, tahoma, arial, pingfang sc, source han sans cn, source han sans, source han serif, hiragino sans gb, wenquanyi micro hei, microsoft yahei, sans-serif&quot; style=&quot;font-size: 28px&quot;&gt;gitlab&lt;br&gt;专案&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#03A2FF;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="180" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-2" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-3" value="" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="180" width="310" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-4" value="应用信息&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="210" width="160" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-5" value="&lt;br&gt;开发商信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QD2z16ngsbT5WN4hHSJs-6" value="&lt;font&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;tahoma&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;source han sans cn&amp;quot; , &amp;quot;source han sans&amp;quot; , &amp;quot;source han serif&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif ; font-size: 18px&quot;&gt;【&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;tahoma&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;source han sans cn&amp;quot; , &amp;quot;source han sans&amp;quot; , &amp;quot;source han serif&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif ; font-size: 18px&quot;&gt;部署&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; , &amp;quot;helvetica&amp;quot; , &amp;quot;tahoma&amp;quot; , &amp;quot;arial&amp;quot; , &amp;quot;pingfang sc&amp;quot; , &amp;quot;source han sans cn&amp;quot; , &amp;quot;source han sans&amp;quot; , &amp;quot;source han serif&amp;quot; , &amp;quot;hiragino sans gb&amp;quot; , &amp;quot;wenquanyi micro hei&amp;quot; , &amp;quot;microsoft yahei&amp;quot; , sans-serif ; font-size: 18px&quot;&gt;申请】&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="30" y="730" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
